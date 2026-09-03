@@ -1,6 +1,6 @@
 # gholamyarya7-hub-
 My Profile ReadMe
-# 👋 Hi, I'm ARYA DEV
+# 👋 Hi, I'm ARYA
 
 Frontend Developer from Iran, passionate about modern web technologies
 
